@@ -30,3 +30,13 @@ Reference
 2. Samuel Oloruntoba. 2015. S.O.L.I.D: The First 5 Principles of Object Oriented Design. Scotch. Accessed on Wednesday, 08 January, 2020 at https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 3. Liskov Substitution Principle. Wikipedia
+
+## Data Types Categorization
+
+| Mutable | Immutable |
+| ------- | --------- |
+| list    | bool      |
+| set     | int       |
+| dict    | float     |
+|         | str       |
+|         | frozenset |
